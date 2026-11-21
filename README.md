@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/icon.png" width="120" alt="Aadil Virtual logo">
+
 # Aadil Virtual
 
 **Run your Android apps and games in a separate virtual space. No root needed.**
@@ -24,6 +26,16 @@
 - **Game library.** Browse, install and launch games from inside the app. Mods update automatically on each launch.
 - **Developer mode.** Install any app from your phone into the virtual space and launch it with Offset Tester or your own library.
 - **Light and dark themes.**
+
+## Screenshots
+
+<p align="center">
+  <img src="assets/screenshot-1.jpg" width="19%" alt="Games">
+  <img src="assets/screenshot-2.jpg" width="19%" alt="Game details">
+  <img src="assets/screenshot-3.jpg" width="19%" alt="Developer mode">
+  <img src="assets/screenshot-4.jpg" width="19%" alt="Account and settings">
+  <img src="assets/screenshot-5.jpg" width="19%" alt="Google services slots">
+</p>
 
 ## Requirements
 
