@@ -3,7 +3,7 @@
 **Requires:** Android 7.0+, arm64 only. No root.
 
 ### Download
-Get `Aadil_Virtual_v1.6.apk` under **Assets** below.
+Get `Aadil_Virtual_v1.6_Official.apk` under **Assets** below.
 
 ### What's new
 - Better stability when the screen turns off

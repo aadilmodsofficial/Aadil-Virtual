@@ -37,7 +37,7 @@ Tested on Android 11, 15, 16 and 17, and on LDPlayer (Android 9).
 
 ## Install
 
-1. Download `Aadil_Virtual_v1.6.apk` from the [latest release](https://github.com/aadilmodsofficial/Aadil-Virtual/releases/latest).
+1. Download `Aadil_Virtual_v1.6_Official.apk` from the [latest release](https://github.com/aadilmodsofficial/Aadil-Virtual/releases/latest).
 2. Open the file and allow **Install unknown apps** for your browser or file manager if Android asks.
 3. Open Aadil Virtual, add an app or game to a slot, and launch it.
 
